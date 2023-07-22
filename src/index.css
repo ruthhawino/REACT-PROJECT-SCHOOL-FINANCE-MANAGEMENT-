@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.fixed-size-image {
+    width: 400px; /* Adjust this value as needed */
+    height: 400px; /* Adjust this value as needed */
+    object-fit: cover; /* This property ensures the image maintains its aspect ratio */
+  }
+  

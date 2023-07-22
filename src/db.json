@@ -1,0 +1,33 @@
+{
+    "components": [
+      {
+        "id": 1,
+        "title": "Student Management",
+        "description": "Manage student profiles, attendance, grades, discipline, and communication.",
+        "icon": "BsPeopleFill",
+        "link": "/student-management"
+      },
+      {
+        "id": 2,
+        "title": "Teacher Management",
+        "description": "Manage teacher profiles, class schedules, grades, and communication.",
+        "icon": "BsBook",
+        "link": "/teacher-management"
+      },
+      {
+        "id": 3,
+        "title": "Guardian Management",
+        "description": "Manage guardian profiles, payment history, and communication.",
+        "icon": "BsBriefcaseFill",
+        "link": "/guardian-management"
+      }
+    ]
+ 
+    
+    
+    
+  }
+
+
+  
+  
